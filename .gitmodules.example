@@ -1,0 +1,9 @@
+[submodule "client-sdk-rust"]
+	path = livekit-rtc/rust-sdks
+	url = https://github.com/livekit/rust-sdks
+[submodule "livekit-api/protocol"]
+	path = livekit-protocol/protocol
+	url = https://github.com/livekit/protocol
+[submodule "livekit-agents"]
+	path = livekit-agents
+	url = git@github.com:Ale-AI-Dev/livekit-agents.git
